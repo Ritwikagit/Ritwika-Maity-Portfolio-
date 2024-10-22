@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "https://Ritwikagit.github.io/Ritwika-Maity-Portfolio",
+  "homepage": "https://ritwikagit.github.io/ritwika-maity-portfolio",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://Ritwikagit.github.io/Ritwika-Maity-Portfolio'",
+    "build-gh": "parcel build --public-url 'https://ritwikagit.github.io/ritwika-maity-portfolio'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },

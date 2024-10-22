@@ -23,7 +23,6 @@ import image from "../images/photo-1471107191679-f26174d2d41e.avif";
 
 const imageAltText = "books and laptop";
 
-
 /**
  * Project list
  *
